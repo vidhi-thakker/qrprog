@@ -1,2 +1,13 @@
-pillow
-qrcode
+astroid==2.12.13
+dill==0.3.6
+isort==5.10.1
+lazy-object-proxy==1.8.0
+mccabe==0.7.0
+Pillow==9.3.0
+platformdirs==2.6.0
+pylint==2.15.8
+PyQRCode==1.2.1
+qrcode==7.3.1
+tomli==2.0.1
+tomlkit==0.11.6
+wrapt==1.14.1
